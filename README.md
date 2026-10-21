@@ -4,13 +4,12 @@ A Claude skill that turns your study material (textbook pages, notes, outlines) 
 
 ## What's here
 
-- `study-video/SKILL.md`: the skill itself. It's the only file you need.
+- `study-video.zip`: the skill, ready to upload. It's the only file you need.
 
 ## Install
 
-1. Download this repo (green **Code** button → **Download ZIP**) and unzip it.
-2. Zip just the `study-video` folder, so `SKILL.md` sits inside it.
-3. In Claude, open Settings, find **Skills**, and upload that zip.
+1. Click `study-video.zip` above, then the download button.
+2. In Claude, open Settings, find **Skills**, and upload the zip. No need to unzip it.
 
 ## How to use
 
