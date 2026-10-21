@@ -1,5 +1,3 @@
-line1
-  line2
 ---
 name: "study-video"
 description: "Turn study material (textbook pages, notes, outlines) into a narrated, chaptered video-lesson web page with animated maps and charts, on-screen captions, fun facts, research-backed learning checks, and a narrator picker."
