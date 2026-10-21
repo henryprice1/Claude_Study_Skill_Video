@@ -215,4 +215,4 @@ Record with Kokoro TTS. It runs offline; the model comes from GitHub releases.
 - **How to use it:** 2–3 lines on watching a chapter, answering the checks, and the CC, speed, full-screen and voice-preview controls.
 - **Testing:** one line on what you tested.
 - **Sources:** anything from outside the student's pages, and where the book's date or name differs from common usage.
-- Recommend spaced practice in a study trainer afterward (offer the study-train skill if they don't have one). Don't recap the build steps.line3
+- Recommend spaced practice in a study trainer afterward (offer the study-train skill if they don't have one). Don't recap the build steps.
